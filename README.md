@@ -12,4 +12,4 @@ When users access http://localhost:3000/error, respond with a status code of 404
 npm test
 
 ### error return 404
-<img src="error404.jpg" high="" width="500">
+<img src="https://github.com/zrdouane/-simple-web-application-is-handling-two-path-requests-/blob/main/error404.png" high="" width="500">
