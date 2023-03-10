@@ -1,0 +1,19 @@
+{
+  "name": "simple-web-application-is-handling-two-path-requests",
+  "version": "0.0.1",
+  "description": "simple web application is handling two path requests with routes you created for /info and /contact.",
+  "main": "sum.js",
+  "scripts": {
+    "test": "node sum.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zrdouane/-simple-web-application-is-handling-two-path-requests-.git"
+  },
+  "author": "zrdouane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zrdouane/-simple-web-application-is-handling-two-path-requests-/issues"
+  },
+  "homepage": "https://github.com/zrdouane/-simple-web-application-is-handling-two-path-requests-#readme"
+}
